@@ -228,7 +228,7 @@ ac_disconnected_cmd =
 #-------------------------------------
 # Button 1
 button = new
-button_icon = ~/.icons/menu.png
+button_icon = ~/.themes/Confur-Black/menu.png
 button_text = 
 button_tooltip = Aplicaciones
 button_lclick_command = rofi -fullscreen -modi "run" -show drun  -show-icons  -theme ~/.config/rofi/themes/chromeos.rasi
